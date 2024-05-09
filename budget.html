@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/budget.css">
+    <title>Budget Calculator</title>
+</head>
+<body>
+    <h2>Let us calculate what your wedding is going to cost</h2>
+    <form action="budget.php" method="post">
+        <fieldset>
+            <legend>Avenues</legend>
+            <label for="sheraton">Sheraton Addis</label>
+            <input type="radio" name="avenue" id="sheraton" value="Sheraton Addis">
+            <label for="lewi">Lewi Hawassa</label>
+            <input type="radio" name="avenue" id="lewi" value="Lewi Hawassa">
+            <label for="haile">Haile Resort-Ziway</label>
+            <input type="radio" name="avenue" id="haile" value="Haile Resort-Ziway">
+            
+            <fieldset>
+                <legend>Foods and drinks</legend>
+                <label for="sweet">Sweet Catering service</label> 
+                <input type="radio" name="catering" id="sweet" value="Sweet Catering service">
+                <label for="ab">AB Catering service</label> 
+                <input type="radio" name="catering" id="ab" value="AB Catering service">
+                <label for="abeba">Abeba Catering service</label> 
+                <input type="radio" name="catering" id="abeba" value="Abeba Catering service">
+            </fieldset>
+
+            <fieldset>
+                <legend>Photography</legend>
+                <label for="photographer1">ABI Photography</label> 
+                <input type="radio" name="photography" id="photographer1" value="Photographer 1">
+                <label for="photographer2">Panorama Photography</label> 
+                <input type="radio" name="photography" id="photographer2" value="Photographer 2">
+                <label for="photographer3">Landscape Photography</label> 
+                <input type="radio" name="photography" id="photographer3" value="Photographer 3">
+            </fieldset>
+
+
+            <input type="submit" value="Calculate">
+        </fieldset>
+    </form>
+</body>
+</html>
