@@ -1,10 +1,10 @@
-Project Name: Aggafari
-Introduction:
+#Project Name: Aggafari
+##Introduction:
 Aggafari Online Wedding Planning Assistant is an online assistant. The purpose of my project was to create a web application that helps users manage their personal finances. 
-Deployed Site:   
-Author(s) LinkedIn:
-•	Chapa Eresso
-Installation:
+###Deployed Site:   
+###Author(s) LinkedIn:
+•	[Chapa Eresso](https://pages.github.com/)
+####Installation:
 1.	Clone the repository: git https://github.com/chapaedb/ALX_Portfolio.git
 2.	Navigate to the project directory: cd ALX_Portfolio
 3.	Install the dependencies: 
