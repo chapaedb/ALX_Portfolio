@@ -1,6 +1,6 @@
 # Project Name: Aggafari
 ## Introduction:
-Aggafari Online Wedding Planning Assistant is an online assistant. The purpose of my project was to create a web application that helps users manage their personal finances. 
+Aggafari Online Wedding Planning Assistant is an online assistant. The purpose of my project was to create a web application that helps users manage their wedding finances. 
 ### Deployed Site:   
 ### Author(s) LinkedIn:
 •	[Chapa Eresso](https://www.linkedin.com/in/chapa-eresso-245898264/)
